@@ -1,0 +1,35 @@
+* {
+text-align: center;
+display: block;
+margin: auto;
+}
+a {
+color: darkgreen;
+font-size: 35px;
+}
+#nome{
+    font-size: 28px;
+}
+
+h1 {
+    color: darkgreen;
+}
+h2{
+    font-size: 25px;
+    color: rgb(196, 1, 1);
+    text-align: center;
+}
+.SegTRih1{
+    text-align: left;
+}
+.PAGINI{
+    font-size: 25px;
+}
+iframe{
+    height: 500px;
+    width: 600px;
+    align-items: inherit;
+}
+p, b{
+    font-size: 21px;
+}
